@@ -6,8 +6,8 @@ import ProfileDetails from './ProfileDetails';
 const ProfilePage = () => {
     const user = {
         profilePicture: 'https://via.placeholder.com/150', // Replace with your image URL
-        name: 'Harshavardhan Kakade',
-        email: 'Harshk2296@gmail.com',
+        name: 'Prasanna Madan Kulkarni'
+        email: 'KulkarniPrasanna94@gmail.com',
         bio: 'A software developer with a passion for coding and learning new technologies RaectJs.'
     };
 
